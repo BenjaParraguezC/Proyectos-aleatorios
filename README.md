@@ -1,4 +1,4 @@
-# Proyectos-aleatorios
+# Proyectos-de-prediccion
 Proyectos personales, agrupados en un solo repositorio
 
 Los proyectos se enfocan en la prediccion
